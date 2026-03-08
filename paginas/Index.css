@@ -1,0 +1,22 @@
+.pagina-header {
+  padding: clamp(40px, 6vw, 80px) 32px 0;
+  margin-bottom: 40px;
+}
+
+.pagina-header h2 {
+  font-family: "Playfair Display", serif;
+  font-size: clamp(28px, 5vw, 48px);
+  margin-bottom: 10px;
+}
+
+.pagina-header p {
+  font-size: 13px;
+  opacity: 0.5;
+  letter-spacing: 1px;
+}
+
+.nav-ativo {
+  border-bottom: 2px solid #e8c97e;
+  color: #e8c97e !important;
+  opacity: 1 !important;
+}
